@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Amanda Wang's GitHub👋
 
 <!--
 **Amanda-WangXiao/Amanda-WangXiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a software engineer  
+- 🌱 I’m currently learning Spring Boot  
+- 📫 How to reach me: amandawang0227@126.com  
+- 😄 Linkedin: https://www.linkedin.com/in/xiao-amanda-wang-836100185/  
+  
+![](https://github-readme-stats.vercel.app/api?username=Amanda-WangXiao)  
