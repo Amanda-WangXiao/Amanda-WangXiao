@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a software engineer  
+- 🔭 I’m currently working as a Software Engineer  
 - 🌱 I’m currently learning Spring Boot  
 - 📫 How to reach me: amandawang0227@126.com  
 - 😄 Linkedin: https://www.linkedin.com/in/xiao-amanda-wang-836100185/  
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-WangXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![](https://github-readme-stats.vercel.app/api?username=Amanda-WangXiao)  
