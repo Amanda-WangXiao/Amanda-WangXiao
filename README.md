@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Linkedin: https://www.linkedin.com/in/xiao-amanda-wang-836100185/  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-WangXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-<!--![](https://github-readme-stats.vercel.app/api?username=Amanda-WangXiao)  -->
+<!--![](https://github-readme-stats.vercel.app/api?username=Amanda-WangXiao)  -->  
