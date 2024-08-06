@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 NTU @ SCSE Master Student
-- 🌱 LLM & Blockchain & Information Security 
+- 🌱 LLM & Blockchain & AI for Security 
 - 📫 How to reach me: s230086@e.ntu.edu.sg
 - 😄 Linkedin: www.linkedin.com/in/amanda-xiao-wang-836100185 
   
