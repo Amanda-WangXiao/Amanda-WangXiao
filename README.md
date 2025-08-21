@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Incoming Ph.D. Student @ WashU
-- 🌱 LLM & Blockchain & AI for Security 
-- 📫 How to reach me: s230086@e.ntu.edu.sg
+- 🔭 CS Ph.D Student @ WashU
+- 🌱 AI & Security & Privacy & Blockchain 
+- 📫 How to reach me: xiao.w @ wustl.edu
 - 😄 Linkedin: www.linkedin.com/in/xiao-wang-836100185
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-WangXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
